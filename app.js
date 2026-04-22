@@ -1,1 +1,1 @@
-function soma(a,b){return a+b}
+function soma(a,b){return Number(a)+Number(b)}
